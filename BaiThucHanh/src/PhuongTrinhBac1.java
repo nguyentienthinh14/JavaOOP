@@ -21,6 +21,5 @@ public class PhuongTrinhBac1 {
             double x = -b / a;
             System.out.print("Nghiem cua phuong trinh la: x = " +x);
         }
-        scanner.close();
     }
 }
