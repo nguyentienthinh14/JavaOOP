@@ -5,7 +5,7 @@ public class Slide74Chuong2 {
         int n; 
         Scanner scanner = new Scanner(System.in);
         do {
-            System.out.print("Nhap vao so phan tu cua mang");
+            System.out.print("Nhap vao so phan tu cua mang"); //
             n = scanner.nextInt();
         } while (n<0);
     int A[]=new int[n];
