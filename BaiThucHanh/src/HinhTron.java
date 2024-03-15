@@ -13,7 +13,7 @@ public class HinhTron {
      * InnerHinhTron
  
      */
-    public class InnerHinhTron { //
+    public class InnerHinhTron { 
         final float PI = 3.14f;
         float r;
         float cv;
