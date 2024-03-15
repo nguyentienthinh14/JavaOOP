@@ -23,6 +23,6 @@ public class Bai12 {
                 }
             }
         }
-        System.out.println("Phan tu lon nhat cua matran: " + max);
+        System.out.println("Phan tu lon nhat cua ma tran: " + max);
     }
     }

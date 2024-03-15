@@ -7,7 +7,7 @@ public class Bai8 {
         System.out.print("Nhap so luong so nguyen: ");
         int n = scanner.nextInt();
 
-        int[] arr = new int[n];
+        int[] arr = new int[n]; 
 
         for (int i = 0; i < n; i++) {
             System.out.print("Nhap so thu nhat " + (i+1) + ": ");
